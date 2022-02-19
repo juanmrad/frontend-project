@@ -1,1 +1,1 @@
-console.log("i loaded fine")
+console.log("JS loaded as expected")
