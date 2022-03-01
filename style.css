@@ -1,3 +1,29 @@
-h1 {
+h1, label {
   color: red;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.car_label {
+  color: burlywood;
+}
+
+#name_label {
+  color: blueviolet;
+}
+
+.dog_card {
+  margin: 100px;
+}
+
+button:hover {
+  background-color: cadetblue;
+  opacity: 0.5;
+}
+
+h1:hover {
+  background-color: chartreuse;
+  transition-duration: 5s;
 }
